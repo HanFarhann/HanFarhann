@@ -4,7 +4,7 @@
 
 # Hello 👋, My Name Is Farhan
 
-I'm a Web Developer, Mobile app Developer and Data Science, and Masters in Website and Mobile app Development and able to analyze big data
+I'm a Web Developer, Mobile app Developer and Masters in Website and Mobile app Development and able to analyze big data
 
 ## 📫 My More Information
 
