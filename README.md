@@ -30,12 +30,12 @@ I'm a Web Developer, Mobile app Developer and Data Science, and Masters in Websi
 
 <p style="display:flex">
 
- <img src="https://github-readme-stats.vercel.app/api?username=Rqwannn&show_icons=true&theme=tokyonight&bg_color=ffffff" width="59%">
+ <img src="https://github-readme-stats.vercel.app/api?username=HanFarhann&show_icons=true&theme=tokyonight&bg_color=ffffff" width="59%">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rqwannn&theme=tokyonight&hide_langs_below=1&layout=compact&bg_color=ffffff" width="40%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanFarhann&theme=tokyonight&hide_langs_below=1&layout=compact&bg_color=ffffff" width="40%">
 
  </p>
  
 
-[![Years Badge](https://badges.pufler.dev/years/Rqwannn)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/Rqwannn)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/HanFarhann)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/HanFarhann)](https://badges.pufler.dev)
