@@ -9,7 +9,6 @@ I'm a Web Developer, Mobile app Developer and Masters in Website and Mobile app 
 ## 📫 My More Information
 
 - ✏️ Gunadarma University
-- 📫 How to reach me: mf8793438@gmail.com
 - 😄 Next I want to learn VR and Blockchain
 - 💬 My official language is Indonesian and I'm also studying English and Rusia
 
